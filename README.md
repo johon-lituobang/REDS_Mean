@@ -4,5 +4,5 @@ As one of the most fundamental problems in statistics, robust location estimatio
 
 I am introducing this work in YouTube, if you are interested, please visit: https://www.youtube.com/@Iobiomathematics. These works have been publically deposited in this Github since one year ago (I hidden some previous versions after updated new versions, https://github.com/tubanlee/SRM16). Also, it has been deposited in Zenodo Tuobang Li. (2023). Robust estimations for semiparametric models: Mean. https://doi.org/10.5281/zenodo.6629988
 
-If you are interested, feel free to contact tl@biomathematics.org, for more materials available by request.
+If you are interested, feel free to share it or contact tl@biomathematics.org, for more materials available by request. 
 
